@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6rLJc2wbidJgvs3RnUsODVE1k7mFaz4E3/sRaAWFP3HpqcpE7dJtty5M5JcLSQT5QYDwQ5BOM++mxpgL0IoTZw==",
+  "dgSpecHash": "p7Jdbvg/M9OgyukZ4wUbaY9X3VRpHezJcD2/GxS8zqQM4eXscdpg2Jr7bzBGUR7/7I1/OkyTO7x+kVx9Xb6VlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "D:\\MERT\\Coding\\.NET CORE\\BlogPanel\\BlogPanel\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
