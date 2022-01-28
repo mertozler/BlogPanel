@@ -211,3 +211,4 @@ D:\MERT\Coding\.NET CORE\BlogPanel\BlogPanel\CoreDemo\obj\Debug\net5.0\Razor\Are
 D:\MERT\Coding\.NET CORE\BlogPanel\BlogPanel\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\BlogTitleListExcel.cshtml.g.cs
 D:\MERT\Coding\.NET CORE\BlogPanel\BlogPanel\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Widget\Index.cshtml.g.cs
 D:\MERT\Coding\.NET CORE\BlogPanel\BlogPanel\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Components\Statistic1\Default.cshtml.g.cs
+D:\MERT\Coding\.NET CORE\BlogPanel\BlogPanel\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Components\Statistic2\Default.cshtml.g.cs
