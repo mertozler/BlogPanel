@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace CoreUI.Areas.Admin.ViewComponents.Statistic
 {
@@ -19,6 +20,10 @@ namespace CoreUI.Areas.Admin.ViewComponents.Statistic
             ViewBag.v2 = c.Contacts.Count();
             ViewBag.v3 = c.Comments.Count();
 
+            string api = "98a2fc1f08796240167b5eb893be4b8c";
+            string connection = "https://api.openweathermap.org/data/2.5/weather?q=%C4%B0zmir&mode=xml&lang=tr&units=metric&appid=" + api;
+            XDocument document = XDocument.Load(connection);
+            ViewBag.v4 = document.Descendants("temperature").ElementAt(0).Attribute("value").Value;
             return View();
         }
     }
